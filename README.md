@@ -43,11 +43,6 @@ python main.py
 - Username: admin
 - Password: admin
 
-## Contributors
-
-- Yassin Bedier
-- Ibrahim Labib
-- Shahd Kazan
 
 ## License
 
