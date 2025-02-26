@@ -1,0 +1,44 @@
+Tra_ID,Event ID,Purchase Date,Username,T_type,Num_Tickets,Purchase,Event,Details,Name,Genre,Event date,Duration,Venue,age,gender
+KG2758,2,5/30/2024,shahd,VIP,1,100,CinemaEvent,Avengers: Infinity War,Movie Night,Action,05/10/2024,2h 30m,City Cinema,20,female
+FB7194,2,5/30/2024,shahd,VIP,1,100,CinemaEvent,Avengers: Infinity War,Movie Night,Action,05/10/2024,2h 30m,City Cinema,20,female
+WJ5396,12,5/30/2024,shahd,VIP,1,160,ConcertEvent,Kanye West,Rap Concert Night,Rock,5/21/2024,2h,City Arena,20,female
+EJ8021,2,5/30/2024,shahd,VIP,1,100,CinemaEvent,Avengers: Infinity War,Movie Night,Action,05/10/2024,2h 30m,City Cinema,20,female
+PI1124,9,5/30/2024,shahd,VIP,8,1040,CinemaEvent,Interstellar,Sci-Fi Movie Night,Sci-Fi,5/19/2024,2h 49m,City Cinema,20,female
+PJ8102,8,5/30/2024,shahd,VIP,3,360,CinemaEvent,The Dark Knight,Action Movie Night,Action,05/12/2024,2h 32m,City Cinema,20,female
+MH0260,10,5/30/2024,shahd,Regular,6,240,CinemaEvent,The Conjuring,Horror Movie Night,Horror,5/26/2024,1h 52m,City Cinema,20,female
+SG9571,4,5/30/2024,shahd,VIP,4,400,SportsEvent,Soccer,Man City vs Man United,League,05/10/2024,90m,City Stadium,20,female
+RL0474,14,5/30/2024,shahd,Regular,5,250,SportsEvent,Basketball,Knicks vs Lakers,NBA Final,5/13/2024,2h,Mercedes,20,female
+YJ0062,16,5/30/2024,shahd,VIP,5,1000,SportsEvent,Soccer,Real Madrid vs Bayern,UCL Semi-Final,5/27/2024,90m,Santiago Bernabeau,20,female
+BD8652,11,5/30/2024,shahd,VIP,4,600,ConcertEvent,Taylor Swift,Pop Concert Night,Pop,5/14/2024,2h 30m,City Arena,20,female
+NX7300,12,5/30/2024,Ali,Regular,4,440,ConcertEvent,Kanye West,Rap Concert Night,Rock,5/21/2024,2h,City Arena,35,male
+LT4136,13,5/30/2024,Ali,Regular,4,480,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,35,male
+YK6584,3,5/30/2024,Ali,Regular,5,300,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,35,male
+KE1742,13,5/30/2024,Ali,VIP,6,1020,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,35,male
+EQ4359,8,5/30/2024,Ali,VIP,1,120,CinemaEvent,The Dark Knight,Action Movie Night,Action,05/12/2024,2h 32m,City Cinema,35,male
+QB8103,9,5/30/2024,Ali,Regular,1,90,CinemaEvent,Interstellar,Sci-Fi Movie Night,Sci-Fi,5/19/2024,2h 49m,City Cinema,35,male
+KK7956,10,5/30/2024,Ali,VIP,1,140,CinemaEvent,The Conjuring,Horror Movie Night,Horror,5/26/2024,1h 52m,City Cinema,35,male
+JV7680,3,5/30/2024,Ali,VIP,1,100,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,35,male
+XP3328,12,5/30/2024,Ali,VIP,4,640,ConcertEvent,Kanye West,Rap Concert Night,Rock,5/21/2024,2h,City Arena,35,male
+GK3975,13,5/30/2024,Ali,Regular,1,120,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,35,male
+SG1446,3,5/30/2024,Ali,VIP,1,100,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,35,male
+TV0913,11,5/30/2024,Ali,VIP,1,150,ConcertEvent,Taylor Swift,Pop Concert Night,Pop,5/14/2024,2h 30m,City Arena,35,male
+FB4492,13,5/30/2024,yassin,VIP,1,170,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,17,male
+RB5915,11,5/30/2024,yassin,VIP,1,150,ConcertEvent,Taylor Swift,Pop Concert Night,Pop,5/14/2024,2h 30m,City Arena,17,male
+FU4853,3,5/30/2024,yassin,VIP,1,100,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,17,male
+XW8457,12,5/30/2024,yassin,Regular,1,110,ConcertEvent,Kanye West,Rap Concert Night,Rock,5/21/2024,2h,City Arena,17,male
+AV9952,13,5/30/2024,yassin,VIP,4,680,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,17,male
+HQ9652,8,5/30/2024,yassin,Regular,6,480,CinemaEvent,The Dark Knight,Action Movie Night,Action,05/12/2024,2h 32m,City Cinema,17,male
+CY9431,9,5/30/2024,yassin,Regular,2,180,CinemaEvent,Interstellar,Sci-Fi Movie Night,Sci-Fi,5/19/2024,2h 49m,City Cinema,17,male
+FU2095,2,5/30/2024,yassin,Regular,4,280,CinemaEvent,Avengers: Infinity War,Movie Night,Action,05/10/2024,2h 30m,City Cinema,17,male
+WH1862,10,5/30/2024,yassin,VIP,4,560,CinemaEvent,The Conjuring,Horror Movie Night,Horror,5/26/2024,1h 52m,City Cinema,17,male
+MS0150,3,5/30/2024,yassin,VIP,8,800,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,17,male
+GT6977,13,5/30/2024,sarah,Regular,5,600,ConcertEvent,Miles Davis,Jazz Concert Night,Jazz,5/28/2024,3h,City Arena,16,female
+LO8860,3,5/30/2024,sarah,Regular,4,240,ConcertEvent,AC/DC,Concert Night,Rock,05/10/2024,2h,City Arena,16,female
+IM2449,12,5/30/2024,sarah,Regular,5,550,ConcertEvent,Kanye West,Rap Concert Night,Rock,5/21/2024,2h,City Arena,16,female
+UO7527,14,5/30/2024,sarah,VIP,5,500,SportsEvent,Basketball,Knicks vs Lakers,NBA Final,5/13/2024,2h,Mercedes,16,female
+GO6254,4,5/30/2024,sarah,VIP,4,400,SportsEvent,Soccer,Man City vs Man United,League,05/10/2024,90m,City Stadium,16,female
+AW5766,16,5/30/2024,sarah,VIP,6,1200,SportsEvent,Soccer,Real Madrid vs Bayern,UCL Semi-Final,5/27/2024,90m,Santiago Bernabeau,16,female
+LF7783,14,5/30/2024,sarah,VIP,7,700,SportsEvent,Basketball,Knicks vs Lakers,NBA Final,5/13/2024,2h,Mercedes,16,female
+NC3113,4,5/30/2024,sarah,VIP,6,600,SportsEvent,Soccer,Man City vs Man United,League,05/10/2024,90m,City Stadium,16,female
+OI3859,4,31/05/2024,shahd,VIP,1,100,SportsEvent,Soccer,Man City vs Man United,League,10/05/2024,90m,City Stadium,17,female
+XL5629,4,2024-06-04,yassin,VIP,3,300,SportsEvent,Soccer,Man City vs Man United,League,2024-05-10,90m,City Stadium,17,male

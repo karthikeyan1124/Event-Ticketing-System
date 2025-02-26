@@ -1,0 +1,5 @@
+Event_Type,Event_ID,Name,Date,Venue,Sport_Type,Game_Type,Duration,VIP_tickets_available,VIP_ticket_price,Regular_tickets_available,Regular_ticket_price
+SportsEvent,4,Man City vs Man United,2024-05-10,City Stadium,Soccer,League,90m,46,100,100,60
+SportsEvent,14,Knicks vs Lakers,2024-05-13,Mercedes,Basketball,NBA Final,2h,80,100,200,50
+SportsEvent,15,Exonnmobil Openers,2024-05-20,Wembley,Tennis,Friendly,3h,90,120,100,60
+SportsEvent,16,Real Madrid vs Bayern,2024-05-27,Santiago Bernabeau,Soccer,UCL Semi-Final,90m,500,2000,10000,100

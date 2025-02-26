@@ -1,0 +1,5 @@
+Event_Type,Event_ID,Name,Date,Venue,Movie_Title,Genre,Duration,VIP_tickets_available,VIP_ticket_price,Regular_tickets_available,Regular_ticket_price
+CinemaEvent,9,Sci-Fi Movie Night,5/20/2024,City Cinema,Fight Club,Sci-Fi,2h 48m,80,130,90,90
+CinemaEvent,10,Horror Movie Night,5/26/2024,City Cinema,The Conjuring,Horror,1h 52m,90,140,70,70
+CinemaEvent,2,Movie Night,5/20/2024,Home,Avengers: Infinity War,Action,2h 30m,50,100,100,20
+CinemaEvent,8,Action Movie Night,5/12/2024,City Cinema,The Dark Knight,Action,2h 32m,70,120,80,80

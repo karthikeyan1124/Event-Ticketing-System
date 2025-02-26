@@ -1,0 +1,5 @@
+Event_Type,Event_ID,Name,Date,Venue,Artist/Band,Genre,Duration,VIP_tickets_available,VIP_ticket_price,Regular_tickets_available,Regular_ticket_price
+ConcertEvent,3,Concert Night,2024-05-10,City Arena,AC/DC,Rock,2h,50,100,100,60
+ConcertEvent,11,Pop Concert Night,2024-05-14,City Arena,Taylor Swift,Pop,2h 30m,80,150,100,100
+ConcertEvent,12,Rap Concert Night,2024-05-21,City Arena,Kanye West,Rock,2h,91,160,110,110
+ConcertEvent,13,Jazz Concert Night,2024-05-28,City Arena,Miles Davis,Jazz,3h,100,170,120,120
